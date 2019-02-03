@@ -1,5 +1,7 @@
 ## play-leetcode-c
+
 以后会增加C，Python语言
+
 |题目列表|C语言|
 |--|--|
 |[26.Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[项目地址](https://github.com/Yexiaomo/play-leetcode/blob/master/c/26-RemoveDuplicatesfromSortedArray.c)|
