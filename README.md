@@ -1,11 +1,59 @@
-## play-leetcode-c
+# play-leetcode-c
+**Github**地址 : [https://github.com/Yexiaomo/play-leetcode](https://github.com/Yexiaomo/play-leetcode)
 
-以后会增加C，Python语言
+### 一天一道 之 *[腾讯精选练习(50题)](https://leetcode-cn.com/problemset/50/)*
 
-|题目列表|C语言|
-|--|--|
-|[26.Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[项目地址](https://github.com/Yexiaomo/play-leetcode/blob/master/c/26-RemoveDuplicatesfromSortedArray.c)|
-|[27.Remove Element](https://leetcode-cn.com/problems/remove-element/)|[项目地址](https://github.com/Yexiaomo/play-leetcode/blob/master/c/27-RemoveElement.c)|
-|[75.Sort Colors](https://leetcode-cn.com/problems/sort-colors/)||
-|[80. Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)||
-|[283.Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/)|[项目地址](https://github.com/Yexiaomo/play-leetcode/blob/master/c/283-MoveZeroes.c)|
+>计划于10/5/2019开始, 截止于11/25/2019结束
+
+|题目列表|C实现|Python实现|
+|--|--|--|
+|2-两数相加| [-](#) | [-](#) |
+|4-寻找两个有序数组的中位数| [-](#) | [-](#) |
+|5-最长回文子串| [-](#) | [-](#) |
+|7-整数反转| [-](#) | [-](#) |
+|8-字符串转换整数| [-](#) | [-](#) |
+|9-回文数| [-](#) | [-](#) |
+|11-盛最多水的容器| [-](#) | [-](#) |
+|14-最长公共前缀| [-](#) | [-](#) |
+|15-三数之和| [-](#) | [-](#) |
+|16-最接近的三数之和| [-](#) | [-](#) |
+|20-有效的括号| [-](#) | [-](#) |
+|21-合并两个有序链表| [-](#) | [-](#) |
+|23-合并K个排序链表| [-](#) | [-](#) |
+|26-删除排序数组中的重复项| [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/c/26-RemoveDuplicatesfromSortedArray.c) | [-](#) |
+|33-搜索旋转排序数组| [-](#) | [-](#) |
+|43-字符串相乘| [-](#) | [-](#) |
+|46-全排列| [-](#) | [-](#) |
+|53-最大子序和| [-](#) | [-](#) |
+|54-螺旋矩阵| [-](#) | [-](#) |
+|59-螺旋矩阵| [-](#) | [-](#) |
+|61-旋转链表| [-](#) | [-](#) |
+|62-不同路径| [-](#) | [-](#) |
+|70-爬楼梯| [-](#) | [-](#) |
+|78-子集| [-](#) | [-](#) |
+|88-合并两个有序数组| [-](#) | [-](#) |
+|89-格雷编码| [-](#) | [-](#) |
+|104-二叉树的最大深度| [-](#) | [-](#) |
+|121-买卖股票的最佳时机| [-](#) | [-](#) |
+|122-买卖股票的最佳时机| [-](#) | [-](#) |
+|124-二叉树中的最大路径和| [-](#) | [-](#) |
+|136-只出现一次的数字| [-](#) | [-](#) |
+|141-环形链表| [-](#) | [-](#) |
+|142-环形链表| [-](#) | [-](#) |
+|146-LRU缓存机制| [-](#) | [-](#) |
+|148-排序链表| [-](#) | [-](#) |
+|155-最小栈| [-](#) | [-](#) |
+|160-相交链表| [-](#) | [-](#) |
+|169-求众数| [-](#) | [-](#) |
+|206-反转链表| [-](#) | [-](#) |
+|215-数组中的第K个最大元素| [-](#) | [-](#) |
+|217-存在重复元素| [-](#) | [-](#) |
+|230-二叉搜索树中第K小的元素| [-](#) | [-](#) |
+|231-2的幂| [-](#) | [-](#) |
+|235-二叉搜索树的最近公共祖先| [-](#) | [-](#) |
+|236-二叉树的最近公共祖先| [-](#) | [-](#) |
+|237-删除链表中的节点| [-](#) | [-](#) |
+|238-除自身以外数组的乘积| [-](#) | [-](#) |
+|292-Nim| [-](#) | [-](#) |
+|344-反转字符串| [-](#) | [-](#) |
+|557-反转字符串中的单词| [-](#) | [-](#) |
