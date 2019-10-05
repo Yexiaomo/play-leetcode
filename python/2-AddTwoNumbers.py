@@ -63,7 +63,6 @@ class Solution:
             
         #还有进位时
         if(sum//10 == 1):
-            temp = ListNode(1)
-            p.next = temp
-            p = p.next
+            p.next = ListNode(1)
+
         return resultList
