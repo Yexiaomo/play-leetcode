@@ -7,8 +7,8 @@
 
 |题目列表 |C实现 |Python实现 |学习笔记 |
 |--|--|--|--|
-|2 - 两数相加| [-](#) | [-](#) | [-](#)|
-|4 - 寻找两个有序数组的中位数| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/2-AddTwoNumbers.py) | [csdn](https://blog.csdn.net/qq_32603745/article/details/102175940)|
+|2 - 两数相加| [-](#) | [含改进后的代码](https://github.com/Yexiaomo/play-leetcode/blob/master/python/2-AddTwoNumbers.py) | [csdn](https://blog.csdn.net/qq_32603745/article/details/102175940)|
+|4 - 寻找两个有序数组的中位数| [-](#) | [-](#) | [-](#)|
 |5 - 最长回文子串| [-](#) | [-](#) | [-](#)|
 |7 - 整数反转| [-](#) | [-](#) | [-](#)|
 |8 - 字符串转换整数| [-](#) | [-](#) | [-](#)|
