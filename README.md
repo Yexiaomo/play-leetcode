@@ -7,10 +7,10 @@
 
 |题目列表 |C实现 |Python实现 |学习笔记 |
 |--|--|--|--|
-|2 - 两数相加| [-](#) | [含改进后的代码](https://github.com/Yexiaomo/play-leetcode/blob/master/python/2-AddTwoNumbers.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102175940)|
-|4 - 寻找两个有序数组的中位数| [-](#) | [未改进](https://github.com/Yexiaomo/play-leetcode/blob/master/python/4-median-of-two-sorted-arrays.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102211227)|
-|5 - 最长回文子串| [-](#) | [未改进](https://github.com/Yexiaomo/play-leetcode/blob/master/python/5-longest-palindromic-substring.py) | [-](#)|
-|7 - 整数反转| [-](#) | [-](#) | [-](#)|
+|2 - 两数相加| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/2-AddTwoNumbers.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102175940)|
+|4 - 寻找两个有序数组的中位数| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/4-median-of-two-sorted-arrays.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102211227)|
+|5 - 最长回文子串| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/5-longest-palindromic-substring.py) | [-](#)|
+|7 - 整数反转| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/7-reverse-integer.py) | [-](#)|
 |8 - 字符串转换整数| [-](#) | [-](#) | [-](#)|
 |9 - 回文数| [-](#) | [-](#) | [-](#)|
 |11 - 盛最多水的容器| [-](#) | [-](#) | [-](#)|
