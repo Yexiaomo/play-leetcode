@@ -11,7 +11,7 @@
 |4 - 寻找两个有序数组的中位数| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/4-median-of-two-sorted-arrays.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102211227)|
 |5 - 最长回文子串| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/5-longest-palindromic-substring.py) | [-](#)|
 |7 - 整数反转| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/7-reverse-integer.py) | [-](#)|
-|8 - 字符串转换整数| [-](#) | [-](#) | [-](#)|
+|8 - 字符串转换整数| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/8-string-to-integer-atoi.py) | [-](#)|
 |9 - 回文数| [-](#) | [-](#) | [-](#)|
 |11 - 盛最多水的容器| [-](#) | [-](#) | [-](#)|
 |14 - 最长公共前缀| [-](#) | [-](#) | [-](#)|
