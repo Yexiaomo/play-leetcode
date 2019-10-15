@@ -17,7 +17,7 @@
 |14 - 最长公共前缀| [-](#) | [地址(复习)](https://github.com/Yexiaomo/play-leetcode/blob/master/python/14-longest-common-prefix.py) | [-](#)|
 |15 - 三数之和| [-](#) | [地址(复习)](https://github.com/Yexiaomo/play-leetcode/blob/master/python/15-3sum.py) | [-](#)|
 |16 - 最接近的三数之和| [-](#) | [地址(复习)](https://github.com/Yexiaomo/play-leetcode/blob/master/python/3sum-closest.py) | [-](#)|
-|20 - 有效的括号| [-](#) | [-](#) | [-](#)|
+|20 - 有效的括号| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/20-valid-parentheses.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102564913)|
 |21 - 合并两个有序链表| [-](#) | [-](#) | [-](#)|
 |23 - 合并K个排序链表| [-](#) | [-](#) | [-](#)|
 |26 - 删除排序数组中的重复项| [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/c/26-RemoveDuplicatesfromSortedArray.c) | [-](#) | [-](#)|
