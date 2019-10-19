@@ -21,7 +21,7 @@
 |21 - 合并两个有序链表| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/21-merge-two-sorted-lists.py) | [-](#)|
 |23 - 合并K个排序链表| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/23-merge-k-sorted-lists.py) | [-](#)|
 |26 - 删除排序数组中的重复项| [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/c/26-RemoveDuplicatesfromSortedArray.c) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/26-remove-duplicates-from-sorted-array.py) | [-](#)|
-|33 - 搜索旋转排序数组| [-](#) | [-](#) | [-](#)|
+|33 - 搜索旋转排序数组| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/33-search-in-rotated-sorted-array.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102635701)|
 |43 - 字符串相乘| [-](#) | [-](#) | [-](#)|
 |46 - 全排列| [-](#) | [-](#) | [-](#)|
 |53 - 最大子序和| [-](#) | [-](#) | [-](#)|
