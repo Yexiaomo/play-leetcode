@@ -24,7 +24,7 @@
 |33 - 搜索旋转排序数组| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/33-search-in-rotated-sorted-array.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102635701)|
 |43 - 字符串相乘| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/43-multiply-strings.py) | [-](#)|
 |46 - 全排列| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/46-permutations.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102672672)|
-|53 - 最大子序和| [-](#) | [-](#) | [-](#)|
+|53 - 最大子序和| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/53-maximum-subarray.py) | [-](#)|
 |54 - 螺旋矩阵| [-](#) | [-](#) | [-](#)|
 |59 - 螺旋矩阵| [-](#) | [-](#) | [-](#)|
 |61 - 旋转链表| [-](#) | [-](#) | [-](#)|
