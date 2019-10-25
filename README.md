@@ -27,7 +27,7 @@
 |53 - 最大子序和| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/53-maximum-subarray.py) | [-](#)|
 |54 - 螺旋矩阵| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/54-spiral-matrix.py) | [-](#)|
 |59 - 螺旋矩阵| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/59-spiral-matrix-ii.py) | [-](#)|
-|61 - 旋转链表| [-](#) | [-](#) | [-](#)|
+|61 - 旋转链表| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/61-rotate-list.py) | [-](#)|
 |62 - 不同路径| [-](#) | [-](#) | [-](#)|
 |70 - 爬楼梯| [-](#) | [-](#) | [-](#)|
 |78 - 子集| [-](#) | [-](#) | [-](#)|
