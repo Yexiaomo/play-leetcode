@@ -1,4 +1,5 @@
 class Solution:
+    
     def subsets(self, nums: List[int]) -> List[List[int]]:
         rst = [[]]
         if(not nums): return rst
