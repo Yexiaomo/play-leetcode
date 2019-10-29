@@ -31,7 +31,7 @@
 |62 - 不同路径| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/62-unique-paths.py) | [-](#)|
 |70 - 爬楼梯| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/70-climbing-stairs.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102764791)|
 |78 - 子集| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/78-subsets.py) | [-](#)|
-|88 - 合并两个有序数组| [-](#) | [-](#) | [-](#)|
+|88 - 合并两个有序数组| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/88-merge-sorted-array.py) | [-](#)|
 |89 - 格雷编码| [-](#) | [-](#) | [-](#)|
 |104 - 二叉树的最大深度| [-](#) | [-](#) | [-](#)|
 |121 - 买卖股票的最佳时机| [-](#) | [-](#) | [-](#)|
