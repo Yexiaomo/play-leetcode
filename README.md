@@ -33,7 +33,7 @@
 |78 - 子集| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/78-subsets.py) | [-](#)|
 |88 - 合并两个有序数组| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/88-merge-sorted-array.py) | [-](#)|
 |89 - 格雷编码| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/89-gray-code.py) | [-](#)|
-|104 - 二叉树的最大深度| [-](#) | [-](#) | [-](#)|
+|104 - 二叉树的最大深度| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/maximum-depth-of-binary-tree.py) | [-](#)|
 |121 - 买卖股票的最佳时机| [-](#) | [-](#) | [-](#)|
 |122 - 买卖股票的最佳时机| [-](#) | [-](#) | [-](#)|
 |124 - 二叉树中的最大路径和| [-](#) | [-](#) | [-](#)|
