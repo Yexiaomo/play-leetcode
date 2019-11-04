@@ -37,7 +37,7 @@
 |121 - 买卖股票的最佳时机| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/121-best-time-to-buy-and-sell-stock.py) | [-](#)|
 |122 - 买卖股票的最佳时机-ii| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/122-best-time-to-buy-and-sell-stock-ii.py) | [-](#)|
 |124 - 二叉树中的最大路径和| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/124-binary-tree-maximum-path-sum.py) | [-](#)|
-|136 - 只出现一次的数字| [-](#) | [-](#) | [-](#)|
+|136 - 只出现一次的数字| [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/c/136-single-number.c) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/136-single-number.py) | [-](#)|
 |141 - 环形链表| [-](#) | [-](#) | [-](#)|
 |142 - 环形链表| [-](#) | [-](#) | [-](#)|
 |146 - LRU缓存机制| [-](#) | [-](#) | [-](#)|
