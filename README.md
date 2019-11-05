@@ -35,11 +35,11 @@
 |89 - 格雷编码| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/89-gray-code.py) | [-](#)|
 |104 - 二叉树的最大深度| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/104-maximum-depth-of-binary-tree.py) | [-](#)|
 |121 - 买卖股票的最佳时机| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/121-best-time-to-buy-and-sell-stock.py) | [-](#)|
-|122 - 买卖股票的最佳时机-ii| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/122-best-time-to-buy-and-sell-stock-ii.py) | [-](#)|
+|122 - 买卖股票的最佳时机-II| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/122-best-time-to-buy-and-sell-stock-ii.py) | [-](#)|
 |124 - 二叉树中的最大路径和| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/124-binary-tree-maximum-path-sum.py) | [-](#)|
 |136 - 只出现一次的数字| [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/c/136-single-number.c) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/136-single-number.py) | [-](#)|
-|141 - 环形链表| [-](#) | [-](#) | [-](#)|
-|142 - 环形链表| [-](#) | [-](#) | [-](#)|
+|141 - 环形链表| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/141-linked-list-cycle.py) | [-](#)|
+|142 - 环形链表-II| [-](#) | [-](#) | [-](#)|
 |146 - LRU缓存机制| [-](#) | [-](#) | [-](#)|
 |148 - 排序链表| [-](#) | [-](#) | [-](#)|
 |155 - 最小栈| [-](#) | [-](#) | [-](#)|
