@@ -42,7 +42,7 @@
 |142 - 环形链表-II| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/142-linked-list-cycle-ii.py) | [-](#)|
 |146 - LRU缓存机制| [-](#) | [-](#) | [-](#)|
 |148 - 排序链表| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/148-sort-list.py) | [-](#)|
-|155 - 最小栈| [-](#) | [-](#) | [-](#)|
+|155 - 最小栈| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/155-min-stack.py) | [-](#)|
 |160 - 相交链表| [-](#) | [-](#) | [-](#)|
 |169 - 求众数| [-](#) | [-](#) | [-](#)|
 |206 - 反转链表| [-](#) | [-](#) | [-](#)|
