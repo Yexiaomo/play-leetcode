@@ -44,7 +44,7 @@
 |148 - 排序链表| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/148-sort-list.py) | [-](#)|
 |155 - 最小栈| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/155-min-stack.py) | [-](#)|
 |160 - 相交链表| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/160-intersection-of-two-linked-lists.py) | [-](#)|
-|169 - 求众数| [-](#) | [-](#) | [-](#)|
+|169 - 求众数| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/169-majority-element.py) | [-](#)|
 |206 - 反转链表| [-](#) | [-](#) | [-](#)|
 |215 - 数组中的第K个最大元素| [-](#) | [-](#) | [-](#)|
 |217 - 存在重复元素| [-](#) | [-](#) | [-](#)|
