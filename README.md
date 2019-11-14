@@ -47,7 +47,7 @@
 |169 - 求众数| [-](#) | [需复习投票算法](https://github.com/Yexiaomo/play-leetcode/blob/master/python/169-majority-element.py) | [-](#)|
 |206 - 反转链表| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/206-reverse-linked-list.py) | [-](#)|
 |215 - 数组中的第K个最大元素| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/215-kth-largest-element-in-an-array.py) | [-](#)|
-|217 - 存在重复元素| [-](#) | [-](#) | [-](#)|
+|217 - 存在重复元素| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/217-contains-duplicate.py) | [-](#)|
 |230 - 二叉搜索树中第K小的元素| [-](#) | [-](#) | [-](#)|
 |231 - 2的幂| [-](#) | [-](#) | [-](#)|
 |235 - 二叉搜索树的最近公共祖先| [-](#) | [-](#) | [-](#)|
