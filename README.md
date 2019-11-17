@@ -50,8 +50,11 @@
 |215 - 数组中的第K个最大元素| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/215-kth-largest-element-in-an-array.py) | [-](#)|
 |217 - 存在重复元素| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/217-contains-duplicate.py) | [-](#)|
 |230 - 二叉搜索树中第K小的元素| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/230-kth-smallest-element-in-a-bst.py) | [-](#)|
+<<<<<<< HEAD
 |231 - 2的幂| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/231-power-of-two.py) | [-](#)|
 |235 - 二叉搜索树的最近公共祖先| [-](#) | [-](#) | [-](#)|
+|231 - 2的幂| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/231-power-of-two.py) | [-](#)|
+|235 - 二叉搜索树的最近公共祖先| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/235-lowest-common-ancestor-of-a-binary-search-tree.py) | [-](#)|
 |236 - 二叉树的最近公共祖先| [-](#) | [-](#) | [-](#)|
 |237 - 删除链表中的节点| [-](#) | [-](#) | [-](#)|
 |238 - 除自身以外数组的乘积| [-](#) | [-](#) | [-](#)|
