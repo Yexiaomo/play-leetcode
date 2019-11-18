@@ -52,7 +52,7 @@
 |230 - 二叉搜索树中第K小的元素| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/230-kth-smallest-element-in-a-bst.py) | [-](#)|
 |231 - 2的幂| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/231-power-of-two.py) | [-](#)|
 |235 - 二叉搜索树的最近公共祖先| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/235-lowest-common-ancestor-of-a-binary-search-tree.py) | [-](#)|
-|236 - 二叉树的最近公共祖先| [-](#) | [-](#) | [-](#)|
+|236 - 二叉树的最近公共祖先| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/236-lowest-common-ancestor-of-a-binary-tree.py) | [-](#)|
 |237 - 删除链表中的节点| [-](#) | [-](#) | [-](#)|
 |238 - 除自身以外数组的乘积| [-](#) | [-](#) | [-](#)|
 |292 - Nim| [-](#) | [-](#) | [-](#)|
