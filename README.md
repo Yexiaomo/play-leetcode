@@ -56,5 +56,5 @@
 |237 - 删除链表中的节点| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/237-delete-node-in-a-linked-list.py) | [-](#)|
 |238 - 除自身以外数组的乘积| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/238-product-of-array-except-self.py) | [-](#)|
 |292 - Nim游戏| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/292-nim-game.py) | [-](#)|
-|344 - 反转字符串| [-](#) | [-](#) | [-](#)|
+|344 - 反转字符串| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/344-reverse-string.py) | [-](#)|
 |557 - 反转字符串中的单词| [-](#) | [-](#) | [-](#)|
