@@ -1,6 +1,66 @@
 # play-leetcode-c
 **Github**地址 : [https://github.com/Yexiaomo/play-leetcode](https://github.com/Yexiaomo/play-leetcode)
 
+### **一天一道** 之 *[腾讯计划（53道题）](https://leetcode-cn.com/explore/interview/card/tencent/)*
+>计划于12/01/2019开始, 预计截止于25/01/2020结束
+
+|题目列表 |C实现 |Python实现 |学习笔记 |
+|--|--|--|--|
+|1-两数之和| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/1-two-sum.py) | [-](#)|
+|寻找两个有序数组的中位数| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|最长回文子串| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|字符串转换整数 (atoi)| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|最长公共前缀| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|三数之和| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|最接近的三数之和| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|有效的括号| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|删除排序数组中的重复项| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|盛最多水的容器| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|字符串相乘| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|反转字符串| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|反转字符串中的单词 III| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|除自身以外数组的乘积| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|存在重复元素| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|螺旋矩阵| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|螺旋矩阵 II| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|合并两个有序数组| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|反转链表| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|两数相加| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|合并两个有序链表| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|合并K个排序链表| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|旋转链表| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|环形链表| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|环形链表 II| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|相交链表| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|删除链表中的节点| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|整数反转| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|回文数| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|只出现一次的数字| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|多数元素| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|2的幂| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|排序链表| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|搜索旋转排序数组| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|数组中的第K个最大元素| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|二叉搜索树中第K小的元素| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|二叉树的最大深度| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|二叉树中的最大路径和| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|二叉搜索树的最近公共祖先| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|二叉树的最近公共祖先| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|括号生成| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|子集| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|全排列| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|格雷编码| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|爬楼梯| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|最大子序和| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|买卖股票的最佳时机| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|买卖股票的最佳时机 II| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|不同路径| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|子集| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|LRU缓存机制| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|最小栈| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|Nim 游戏| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+
+
 ### **一天一道** 之 *[腾讯精选练习(50题)](https://leetcode-cn.com/problemset/50/)*
 
 >计划于10/5/2019开始, 预计截止于11/25/2019结束
