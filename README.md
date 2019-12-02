@@ -7,7 +7,7 @@
 |题目列表 |C实现 |Python实现 |学习笔记 |
 |--|--|--|--|
 |1-两数之和| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/1-two-sum.py) | [-](#)|
-|寻找两个有序数组的中位数| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|4-寻找两个有序数组的中位数| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/4-median-of-two-sorted-arrays.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102211227)|
 |最长回文子串| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
 |字符串转换整数 (atoi)| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
 |最长公共前缀| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
