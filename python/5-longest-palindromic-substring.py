@@ -26,3 +26,30 @@ class Solution:
     		l -= 1
     		r += 1
     	return s[l+1: r], r-l-1
+ 
+''' # 腾讯计划
+    def longestPalindrome(self, s: str) -> str:
+        sLen = len(s)
+        if(sLen == 0): return ''
+        # 初始化最长回文子串
+        lp = s[0]
+        lpLen = 1
+        #采用中心扩散
+        for i in range(sLen):
+            # 当前位置走两遍, 每次前进 0.5
+            pOdd, oddLen = self.__centerSpread(s, sLen, i, i)
+            pEven, evenLen = self.__centerSpread(s, sLen, i, i+1)
+            # 更新最长回文子串
+            curMaxSub = pOdd if(oddLen >= evenLen) else pEven
+            if(len(curMaxSub) > lpLen):
+                lpLen = len(curMaxSub)
+                lp = curMaxSub
+        return lp
+
+    #中心扩散,获得以当前字符串s[l:r+1]为中心的最长回文子串
+    def __centerSpread(self, s, sLen, l, r):
+        while(l>=0 and r<sLen and s[l] == s[r]):
+            l-=1
+            r+=1
+        return (s[l+1:r], r-l-1)
+'''
