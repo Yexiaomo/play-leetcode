@@ -10,7 +10,7 @@
 |4-寻找两个有序数组的中位数| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/4-median-of-two-sorted-arrays.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102211227)|
 |5-最长回文子串| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/5-longest-palindromic-substring.py) | [-](#)|
 |8-字符串转换整数 (atoi)| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/8-string-to-integer-atoi.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102451802)|
-|14-最长公共前缀| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/14-longest-common-prefix.py) | [-](#)|
+|14-最长公共前缀| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/14-longest-common-prefix.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/103417002)|
 |三数之和| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
 |最接近的三数之和| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
 |有效的括号| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
@@ -75,7 +75,7 @@
 |8 - 字符串转换整数| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/8-string-to-integer-atoi.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102451802)|
 |9 - 回文数| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/9-palindrome-number.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102474168)|
 |11 - 盛最多水的容器| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/11-container-with-most-water.py) | [-](#)|
-|14 - 最长公共前缀| [-](#) | [地址(复习)](https://github.com/Yexiaomo/play-leetcode/blob/master/python/14-longest-common-prefix.py) | [-](#)|
+|14 - 最长公共前缀| [-](#) | [地址(复习)](https://github.com/Yexiaomo/play-leetcode/blob/master/python/14-longest-common-prefix.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/103417002)|
 |15 - 三数之和| [-](#) | [地址(复习)](https://github.com/Yexiaomo/play-leetcode/blob/master/python/15-3sum.py) | [-](#)|
 |16 - 最接近的三数之和| [-](#) | [地址(复习)](https://github.com/Yexiaomo/play-leetcode/blob/master/python/3sum-closest.py) | [-](#)|
 |20 - 有效的括号| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/20-valid-parentheses.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102564913)|
