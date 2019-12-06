@@ -11,7 +11,7 @@
 |5-最长回文子串| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/5-longest-palindromic-substring.py) | [-](#)|
 |8-字符串转换整数 (atoi)| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/8-string-to-integer-atoi.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102451802)|
 |14-最长公共前缀| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/14-longest-common-prefix.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/103417002)|
-|三数之和| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
+|15-三数之和| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/15-3sum.py) | [-](#)|
 |最接近的三数之和| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
 |有效的括号| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
 |删除排序数组中的重复项| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/) | [-](#)|
