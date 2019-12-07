@@ -1,4 +1,31 @@
 class Solution:
+    # 改良版
+    def threeSumClosest(self, nums: List[int], target: int) -> int:
+        len_nums = len(nums)
+        if(len_nums < 3): return None
+        nums.sort()
+        rst = nums[0] + nums[1] + nums[2]
+        for i in range(len_nums):
+            if(i == 0 or nums[i] != nums[i-1]):
+                l = i+1
+                r = len_nums-1
+                while(l < r):
+                    tmp = nums[i] + nums[l] + nums[r]
+                    if(tmp == target): return tmp
+                    if(abs(tmp-target) < abs(rst-target)):
+                        rst = tmp
+                    if(tmp > target):
+                        r-=1
+                        # 防止重复判断
+                        while(l<r and nums[r] == nums[r+1]):
+                            r-=1
+                    else:
+                        l+=1
+                        # 防止重复判断
+                        while(l<r and nums[l] == nums[l-1]):
+                            l+=1
+        return rst
+    # 原版
     def threeSumClosest(self, nums: List[int], target: int) -> int:
         nums.sort()
         len_nums = len(nums)
