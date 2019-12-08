@@ -1,4 +1,17 @@
 class Solution:
+    # 改良版2019/12/08
+    def isValid(self, s: str) -> bool:
+        if(len(s) %2 != 0): return False
+        dict_brackets = {'(':')', '[':']', '{':'}'}
+        stack = []
+        for i in s:
+            if(i in dict_brackets.keys()):
+                stack.append(i)
+            else:
+                if(stack == [] or i != dict_brackets[stack.pop()]):
+                    return False
+        return not stack
+    
     def isValid(self, s: str) -> bool:
         if(len(s) % 2 != 0):
             return False
