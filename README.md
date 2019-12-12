@@ -17,7 +17,7 @@
 |26 - 删除排序数组中的重复项| [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/c/26-RemoveDuplicatesfromSortedArray.c) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/26-remove-duplicates-from-sorted-array.py) | [-](#)|
 |16 - 盛最多水的容器| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/11-container-with-most-water.py) | [-](#)|
 |43 - 字符串相乘| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/43-multiply-strings.py) | [-](#)|
-|反转字符串| [-](#) | [-](#) | [-](#)|
+|344 - 反转字符串| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/344-reverse-string.py) | [-](#)|
 |反转字符串中的单词 III| [-](#) | [-](#) | [-](#)|
 |除自身以外数组的乘积| [-](#) | [-](#) | [-](#)|
 |存在重复元素| [-](#) | [-](#) | [-](#)|
