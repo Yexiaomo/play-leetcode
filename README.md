@@ -20,7 +20,7 @@
 |344 - 反转字符串| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/344-reverse-string.py) | [-](#)|
 |557 - 反转字符串中的单词| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/557-reverse-words-in-a-string-iii.py) | [-](#)|
 |238 - 除自身以外数组的乘积| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/238-product-of-array-except-self.py) | [-](#)|
-|存在重复元素| [-](#) | [-](#) | [-](#)|
+|217 - 存在重复元素| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/217-contains-duplicate.py) | [-](#)|
 |螺旋矩阵| [-](#) | [-](#) | [-](#)|
 |螺旋矩阵 II| [-](#) | [-](#) | [-](#)|
 |合并两个有序数组| [-](#) | [-](#) | [-](#)|
