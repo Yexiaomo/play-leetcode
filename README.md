@@ -22,7 +22,7 @@
 |238 - 除自身以外数组的乘积| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/238-product-of-array-except-self.py) | [-](#)|
 |217 - 存在重复元素| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/217-contains-duplicate.py) | [-](#)|
 |54 - 螺旋矩阵| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/54-spiral-matrix.py) | [-](#)|
-|螺旋矩阵 II| [-](#) | [-](#) | [-](#)|
+|59 - 螺旋矩阵 II| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/59-spiral-matrix-ii.py) | [-](#)|
 |合并两个有序数组| [-](#) | [-](#) | [-](#)|
 |反转链表| [-](#) | [-](#) | [-](#)|
 |两数相加| [-](#) | [-](#) | [-](#)|
@@ -87,7 +87,7 @@
 |46 - 全排列| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/46-permutations.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102672672)|
 |53 - 最大子序和| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/53-maximum-subarray.py) | [-](#)|
 |54 - 螺旋矩阵| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/54-spiral-matrix.py) | [-](#)|
-|59 - 螺旋矩阵| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/59-spiral-matrix-ii.py) | [-](#)|
+|59 - 螺旋矩阵 II| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/59-spiral-matrix-ii.py) | [-](#)|
 |61 - 旋转链表| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/61-rotate-list.py) | [-](#)|
 |62 - 不同路径| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/62-unique-paths.py) | [-](#)|
 |70 - 爬楼梯| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/70-climbing-stairs.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102764791)|
