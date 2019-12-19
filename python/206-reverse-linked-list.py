@@ -6,7 +6,7 @@
 
 class Solution:
     def reverseList(self, head: ListNode) -> ListNode:
-        #分析一波就是尾插法创建单链表
+        #分析一波就是头插法创建单链表
         p = new = ListNode(0)
         while(head):
             p = head
