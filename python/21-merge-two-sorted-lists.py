@@ -5,6 +5,23 @@
 #         self.next = None
 
 class Solution:
+    # 改良版
+    def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
+        rst = p = ListNode(0)
+        while(l1 and l2):
+            if(l1.val <= l2.val):
+                tmp = l1
+                l1 = l1.next
+            else:
+                tmp = l2
+                l2 = l2.next
+            p.next = tmp
+            p = p.next
+        if(l1):
+            p.next = l1
+        if(l2):
+            p.next = l2
+        return rst.next
     def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
         l = ListNode(0)
         p = l
