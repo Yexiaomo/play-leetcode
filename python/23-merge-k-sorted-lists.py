@@ -5,25 +5,24 @@
 #         self.next = None
 
 class Solution:
+    # 二路归并
     def mergeKLists(self, lists: List[ListNode]) -> ListNode:
-        rst = ListNode(0)
-        p = rst
-        cnt_None = 0
-        for l in lists:
-            if(l == None):
-                cnt_None += 1
-        for i in range(cnt_None):
-            lists.remove(None)
-        while(len(lists) > 0):
-            min = 0
-            for i in range(1, len(lists)):
-                if(lists[i].val < lists[min].val):
-                    min = i
-            p.next = lists[min]
-            
-            if(lists[min].next != None):
-                lists[min] = lists[min].next    
-            else:
-                lists.pop(min)
-            p = p.next
-        return rst.next
+        if not lists:return 
+        n = len(lists)
+        return self.merge(lists, 0, n-1)
+    def merge(self,lists, left, right):
+        if left == right:
+            return lists[left]
+        mid = left + (right - left) // 2
+        l1 = self.merge(lists, left, mid)
+        l2 = self.merge(lists, mid+1, right)
+        return self.mergeTwoLists(l1, l2)
+    def mergeTwoLists(self,l1, l2):
+        if not l1:return l2
+        if not l2:return l1
+        if l1.val < l2.val:
+            l1.next = self.mergeTwoLists(l1.next, l2)
+            return l1
+        else:
+            l2.next = self.mergeTwoLists(l1, l2.next)
+            return l2
