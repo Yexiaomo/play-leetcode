@@ -3,7 +3,6 @@
 #     def __init__(self, x):
 #         self.val = x
 #         self.next = None
-
 class Solution:
     # 二路归并
     def mergeKLists(self, lists: List[ListNode]) -> ListNode:
