@@ -28,7 +28,7 @@
 |2 - 两数相加| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/2-AddTwoNumbers.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102175940)|
 |21 - 合并两个有序链表| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/21-merge-two-sorted-lists.py) | [-](#)|
 |23 - 合并K个排序链表| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/23-merge-k-sorted-lists.py) | [-](#)|
-|旋转链表| [-](#) | [-](#) | [-](#)|
+|61 - 旋转链表| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/61-rotate-list.py) | [-](#)|
 |环形链表| [-](#) | [-](#) | [-](#)|
 |环形链表 II| [-](#) | [-](#) | [-](#)|
 |相交链表| [-](#) | [-](#) | [-](#)|
