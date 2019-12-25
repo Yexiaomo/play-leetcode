@@ -6,7 +6,7 @@
 
 class Solution:
     def detectCycle(self, head: ListNode) -> ListNode:
-        #用集合,判断当前链表是否存在于集合中,
+        #用集合,循环判断当前节点是否存在于集合中,
         # 如果存在,则说明有环,返回当前节点
         # 如果不存在,添加到集合中
         # 结束条件为当前节点为空
