@@ -5,25 +5,16 @@
 #         self.next = None
 
 class Solution:
-    #快慢指针
-    def hasCycle(self, head: ListNode) -> bool:
-        if(head == None or head.next == None): return False
-        slow = head
-        fast = head.next
-        while(fast != slow):
-            if(fast == None or fast.next == None):
-                return False
-            slow = slow.next
-            fast = fast.next.next
-        return True
-    #集合判定
-    def hasCycle(self, head: ListNode) -> bool:
+    def detectCycle(self, head: ListNode) -> ListNode:
+        #用集合,判断当前链表是否存在于集合中,
+        # 如果存在,则说明有环,返回当前节点
+        # 如果不存在,添加到集合中
+        # 结束条件为当前节点为空
         ans = set()
-        while(head!=None):
+        while(head):
             if(head in ans):
-                return True
+                return head
             else:
                 ans.add(head)
                 head = head.next
-        return False
-            
+        return None
