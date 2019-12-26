@@ -31,7 +31,7 @@
 |61 - 旋转链表| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/61-rotate-list.py) | [-](#)|
 |141 - 环形链表| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/141-linked-list-cycle.py) | [-](#)|
 |142 - 环形链表-II| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/142-linked-list-cycle-ii.py) | [-](#)|
-|相交链表| [-](#) | [-](#) | [-](#)|
+|160 - 相交链表| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/160-intersection-of-two-linked-lists.py) | [-](#)|
 |删除链表中的节点| [-](#) | [-](#) | [-](#)|
 |整数反转| [-](#) | [-](#) | [-](#)|
 |回文数| [-](#) | [-](#) | [-](#)|
