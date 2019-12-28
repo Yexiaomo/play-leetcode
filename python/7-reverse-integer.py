@@ -19,8 +19,7 @@ class Solution:
         # 返回
         return rst*flag
 
-# 膜拜大神
-class Solution:
+    # 膜拜大神
     def reverse(self, x: int) -> int:
     	# 将x转化为str,进行反转去除负号
         s = str(x)[::-1].rstrip("-")
@@ -31,3 +30,12 @@ class Solution:
             else:
                 return 0-int(s)
         return 0
+    
+
+    def reverse(self, x: int) -> int:
+        if(x >= 0):
+            rst = int(str(x)[::-1])
+            return rst if(rst < (2**31)) else 0
+        else:
+            rst =  int('-' + str(x)[:0:-1])
+            return rst if(rst > (-2**31)) else 0
