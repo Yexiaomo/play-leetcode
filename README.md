@@ -35,7 +35,7 @@
 |237 - 删除链表中的节点| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/237-delete-node-in-a-linked-list.py) | [-](#)|
 |7 - 整数反转| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/7-reverse-integer.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/85406730)|
 |9 - 回文数| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/9-palindrome-number.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102474168)|
-|只出现一次的数字| [-](#) | [-](#) | [-](#)|
+|136 - 只出现一次的数字| [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/c/136-single-number.c) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/136-single-number.py) | [-](#)|
 |多数元素| [-](#) | [-](#) | [-](#)|
 |2的幂| [-](#) | [-](#) | [-](#)|
 |排序链表| [-](#) | [-](#) | [-](#)|
