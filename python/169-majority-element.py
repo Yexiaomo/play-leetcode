@@ -20,3 +20,20 @@ class Solution:
     for i in nums[len(nums)//2:]:
         if nums.count(i) > len(nums)//2:
             return i
+
+    def majorityElement(self, nums: List[int]) -> int:
+        # 投票算法
+        len_nums = len(nums)
+        if(len_nums < 0): return None
+        ans = nums[0]
+        count = 1
+        for i in range(1, len_nums):
+            if(count == 0):
+                ans = nums[i]
+                count = 1
+                continue
+            if(nums[i] == ans):
+                count+=1
+            else:
+                count-=1
+        return ans
