@@ -36,7 +36,7 @@
 |7 - 整数反转| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/7-reverse-integer.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/85406730)|
 |9 - 回文数| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/9-palindrome-number.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102474168)|
 |136 - 只出现一次的数字| [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/c/136-single-number.c) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/136-single-number.py) | [-](#)|
-|多数元素| [-](#) | [-](#) | [-](#)|
+|169 - 多数元素| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/169-majority-element.py) | [-](#)|
 |2的幂| [-](#) | [-](#) | [-](#)|
 |排序链表| [-](#) | [-](#) | [-](#)|
 |搜索旋转排序数组| [-](#) | [-](#) | [-](#)|
