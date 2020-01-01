@@ -37,7 +37,7 @@
 |9 - 回文数| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/9-palindrome-number.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102474168)|
 |136 - 只出现一次的数字| [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/c/136-single-number.c) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/136-single-number.py) | [-](#)|
 |169 - 多数元素| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/169-majority-element.py) | [-](#)|
-|2的幂| [-](#) | [-](#) | [-](#)|
+|231 - 2的幂| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/231-power-of-two.py) | [-](#)|
 |排序链表| [-](#) | [-](#) | [-](#)|
 |搜索旋转排序数组| [-](#) | [-](#) | [-](#)|
 |数组中的第K个最大元素| [-](#) | [-](#) | [-](#)|
