@@ -38,7 +38,7 @@
 |136 - 只出现一次的数字| [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/c/136-single-number.c) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/136-single-number.py) | [-](#)|
 |169 - 多数元素| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/169-majority-element.py) | [-](#)|
 |231 - 2的幂| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/231-power-of-two.py) | [-](#)|
-|排序链表| [-](#) | [-](#) | [-](#)|
+|148 - 排序链表| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/148-sort-list.py) | [-](#)|
 |搜索旋转排序数组| [-](#) | [-](#) | [-](#)|
 |数组中的第K个最大元素| [-](#) | [-](#) | [-](#)|
 |二叉搜索树中第K小的元素| [-](#) | [-](#) | [-](#)|
