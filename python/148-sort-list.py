@@ -5,6 +5,18 @@
 #         self.next = None
 
 class Solution:
+    #使用额外的空间O(N)
+    def sortList(self, head: ListNode) -> ListNode:
+        p = head
+        arrList = []
+        while(p != None):
+            arrList.append(p.val)
+            p=p.next
+        p = head
+        for i in sorted(arrList):
+            p.val = i
+            p = p.next
+        return head
     #归并排序
     def sortList(self, head: ListNode) -> ListNode:
         if(head == None or head.next == None): return head
