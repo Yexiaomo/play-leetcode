@@ -1,4 +1,27 @@
 class Solution:
+    #折半查找
+    def search(self, nums: List[int], target: int) -> int:
+        len_nums = len(nums)
+        if(len_nums < 1): return -1
+        
+        left, right = 0, len_nums-1
+        mid = left + (right - left)//2
+        while(left<=right):
+            if(target == nums[mid]):
+                return mid
+            if(nums[left] <= nums[mid]):
+                if(target >= nums[left] and target <= nums[mid]):
+                    right = mid-1
+                else:
+                    left = mid+1
+            else:
+                if(target >= nums[mid] and target <= nums[right]):
+                    left = mid+1
+                else:
+                    right = mid-1
+            mid = left + (right-left)//2
+        return -1
+    #常规方法
     def search(self, nums: List[int], target: int) -> int:
         len_nums = len(nums)
         if(len_nums == 0): return -1
