@@ -39,7 +39,7 @@
 |169 - 多数元素| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/169-majority-element.py) | [-](#)|
 |231 - 2的幂| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/231-power-of-two.py) | [-](#)|
 |148 - 排序链表| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/148-sort-list.py) | [-](#)|
-|搜索旋转排序数组| [-](#) | [-](#) | [-](#)|
+|33 - 搜索旋转排序数组| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/33-search-in-rotated-sorted-array.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102635701)|
 |数组中的第K个最大元素| [-](#) | [-](#) | [-](#)|
 |二叉搜索树中第K小的元素| [-](#) | [-](#) | [-](#)|
 |二叉树的最大深度| [-](#) | [-](#) | [-](#)|
