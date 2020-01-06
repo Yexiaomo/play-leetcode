@@ -42,7 +42,7 @@
 |33 - 搜索旋转排序数组| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/33-search-in-rotated-sorted-array.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102635701)|
 |215 - 数组中的第K个最大元素| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/215-kth-largest-element-in-an-array.py) | [-](#)|
 |230 - 二叉搜索树中第K小的元素| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/230-kth-smallest-element-in-a-bst.py) | [-](#)|
-|二叉树的最大深度| [-](#) | [-](#) | [-](#)|
+|104 - 二叉树的最大深度| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/104-maximum-depth-of-binary-tree.py) | [-](#)|
 |二叉树中的最大路径和| [-](#) | [-](#) | [-](#)|
 |二叉搜索树的最近公共祖先| [-](#) | [-](#) | [-](#)|
 |二叉树的最近公共祖先| [-](#) | [-](#) | [-](#)|
