@@ -32,14 +32,15 @@
 class Solution:
     def maxPathSum(self, root: TreeNode) -> int:
         if(not root): return 0
-        rst = -9999999
-        def fun(childNode):
-            nonlocal rst
-            if(not childNode): return 0
+        #将结果初始为最小值
+        #这里也可以写成self.result = float("-inf") = 负无穷
+        self.result = -sys.maxsize-1
+        def fun(node):
+            if(not node): return 0
             #如果为负直接舍去当前节点的子节点
-            left = max(0, fun(childNode.left))
-            right = max(0, fun(childNode.right))
-            rst = max(rst, childNode.val+left+right)
-            return max(left, right)+childNode.val
+            left = max(0, fun(node.left))
+            right = max(0, fun(node.right))
+            self.result = max(self.result, node.val+left+right)
+            return max(left, right) + node.val
         fun(root)
-        return rst
+        return self.result
