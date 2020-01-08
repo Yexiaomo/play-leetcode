@@ -44,7 +44,7 @@
 |230 - 二叉搜索树中第K小的元素| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/230-kth-smallest-element-in-a-bst.py) | [-](#)|
 |104 - 二叉树的最大深度| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/104-maximum-depth-of-binary-tree.py) | [-](#)|
 |124 - 二叉树中的最大路径和| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/124-binary-tree-maximum-path-sum.py) | [-](#)|
-|二叉搜索树的最近公共祖先| [-](#) | [-](#) | [-](#)|
+|235 - 二叉搜索树的最近公共祖先| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/235-lowest-common-ancestor-of-a-binary-search-tree.py) | [-](#)|
 |二叉树的最近公共祖先| [-](#) | [-](#) | [-](#)|
 |括号生成| [-](#) | [-](#) | [-](#)|
 |子集| [-](#) | [-](#) | [-](#)|
