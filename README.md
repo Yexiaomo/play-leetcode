@@ -45,8 +45,8 @@
 |104 - 二叉树的最大深度| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/104-maximum-depth-of-binary-tree.py) | [-](#)|
 |124 - 二叉树中的最大路径和| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/124-binary-tree-maximum-path-sum.py) | [-](#)|
 |235 - 二叉搜索树的最近公共祖先| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/235-lowest-common-ancestor-of-a-binary-search-tree.py) | [-](#)|
-|二叉树的最近公共祖先| [-](#) | [-](#) | [-](#)|
-|括号生成| [-](#) | [-](#) | [-](#)|
+|236 - 二叉树的最近公共祖先| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/236-lowest-common-ancestor-of-a-binary-tree.py) | [-](#)|
+|22 - 括号生成| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/22-generate-parentheses.py) | [-](#)|
 |子集| [-](#) | [-](#) | [-](#)|
 |全排列| [-](#) | [-](#) | [-](#)|
 |格雷编码| [-](#) | [-](#) | [-](#)|
