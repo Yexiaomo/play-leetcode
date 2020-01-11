@@ -47,7 +47,7 @@
 |235 - 二叉搜索树的最近公共祖先| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/235-lowest-common-ancestor-of-a-binary-search-tree.py) | [-](#)|
 |236 - 二叉树的最近公共祖先| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/236-lowest-common-ancestor-of-a-binary-tree.py) | [-](#)|
 |22 - 括号生成| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/22-generate-parentheses.py) | [-](#)|
-|子集| [-](#) | [-](#) | [-](#)|
+|78 - 子集| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/78-subsets.py) | [-](#)|
 |全排列| [-](#) | [-](#) | [-](#)|
 |格雷编码| [-](#) | [-](#) | [-](#)|
 |爬楼梯| [-](#) | [-](#) | [-](#)|
