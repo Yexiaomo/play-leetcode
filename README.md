@@ -48,7 +48,7 @@
 |236 - 二叉树的最近公共祖先| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/236-lowest-common-ancestor-of-a-binary-tree.py) | [-](#)|
 |22 - 括号生成| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/22-generate-parentheses.py) | [-](#)|
 |78 - 子集| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/78-subsets.py) | [-](#)|
-|全排列| [-](#) | [-](#) | [-](#)|
+|46 - 全排列| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/46-permutations.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102672672)|
 |格雷编码| [-](#) | [-](#) | [-](#)|
 |爬楼梯| [-](#) | [-](#) | [-](#)|
 |最大子序和| [-](#) | [-](#) | [-](#)|
