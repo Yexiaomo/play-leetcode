@@ -51,7 +51,7 @@
 |46 - 全排列| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/46-permutations.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102672672)|
 |89 - 格雷编码| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/89-gray-code.py) | [-](#)|
 |70 - 爬楼梯| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/70-climbing-stairs.py) | [CSDN](https://blog.csdn.net/qq_32603745/article/details/102764791)|
-|最大子序和| [-](#) | [-](#) | [-](#)|
+|53 - 最大子序和| [-](#) | [需复习](https://github.com/Yexiaomo/play-leetcode/blob/master/python/53-maximum-subarray.py) | [-](#)|
 |买卖股票的最佳时机| [-](#) | [-](#) | [-](#)|
 |买卖股票的最佳时机 II| [-](#) | [-](#) | [-](#)|
 |不同路径| [-](#) | [-](#) | [-](#)|
