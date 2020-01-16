@@ -1,4 +1,16 @@
 class Solution:
+    #腾讯计划打卡
+    def maxProfit(self, prices: List[int]) -> int:
+        if(len(prices) < 2): return 0
+        inPrice = prices[0]
+        rst = 0
+        for price in prices[1:]:
+            if(price < inPrice):
+                inPrice = price
+            else:
+                rst = max(rst, price-inPrice)
+        return rst
+
     def maxProfit(self, prices: List[int]) -> int:
         #寻找买入最小值和卖出最大值,需要注意卖出最大值一定位于买入最小值的后面
         min = 0
