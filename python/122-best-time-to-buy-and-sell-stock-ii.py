@@ -22,3 +22,22 @@ class Solution:
             inPrice = i
             i+=1
         return ans
+
+    #和上面的基本一致
+    def maxProfit(self, prices: List[int]) -> int:
+        i, len_prices = 1, len(prices)
+        if(len_prices < 2): return 0
+        inPrice = prices[0]
+        rst = 0
+        while(i < len_prices):
+            if(prices[i] > inPrice):
+                while(True):
+                    if(i+1 >= len_prices): break
+                    if(prices[i+1] > prices[i]):
+                        i+=1
+                    else:
+                        break                    
+                rst += prices[i] - inPrice
+            inPrice = prices[i]
+            i+=1
+        return rst
