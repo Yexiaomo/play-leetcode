@@ -54,7 +54,7 @@
 |53 - 最大子序和| [-](#) | [需复习](https://github.com/Yexiaomo/play-leetcode/blob/master/python/53-maximum-subarray.py) | [-](#)|
 |121 - 买卖股票的最佳时机| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/121-best-time-to-buy-and-sell-stock.py) | [-](#)|
 |122 - 买卖股票的最佳时机-II| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/122-best-time-to-buy-and-sell-stock-ii.py) | [-](#)|
-|不同路径| [-](#) | [-](#) | [-](#)|
+|62 - 不同路径| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/62-unique-paths.py) | [-](#)|
 |子集| [-](#) | [-](#) | [-](#)|
 |LRU缓存机制| [-](#) | [-](#) | [-](#)|
 |最小栈| [-](#) | [-](#) | [-](#)|

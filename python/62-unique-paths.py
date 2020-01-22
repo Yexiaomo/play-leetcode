@@ -1,4 +1,13 @@
 class Solution:
+    #简写版
+    def uniquePaths(self, m: int, n: int) -> int:
+        if(m<1 or n<1): return
+        arr = [ [1]*n for _ in range(m) ]
+        for _m in range(1, m):
+            for _n in range(1, n):
+                arr[_m][_n] = arr[_m-1][_n] + arr[_m][_n-1]
+        return arr[m-1][n-1]
+
     def uniquePaths(self, m: int, n: int) -> int:
         '''
             动态规划问题
