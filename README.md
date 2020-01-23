@@ -58,7 +58,7 @@
 |78 - 子集| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/78-subsets.py) | [-](#)|
 |LRU缓存机制| [-](#) | [-](#) | [-](#)|
 |155 - 最小栈| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/155-min-stack.py) | [-](#)|
-|Nim 游戏| [-](#) | [-](#) | [-](#)|
+|292 - Nim游戏| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/292-nim-game.py) | [-](#)|
 
 
 ### **一天一道** 之 *[腾讯精选练习(50题)](https://leetcode-cn.com/problemset/50/)*
