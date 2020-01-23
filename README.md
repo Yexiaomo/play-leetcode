@@ -55,7 +55,7 @@
 |121 - 买卖股票的最佳时机| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/121-best-time-to-buy-and-sell-stock.py) | [-](#)|
 |122 - 买卖股票的最佳时机-II| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/122-best-time-to-buy-and-sell-stock-ii.py) | [-](#)|
 |62 - 不同路径| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/62-unique-paths.py) | [-](#)|
-|子集| [-](#) | [-](#) | [-](#)|
+|78 - 子集| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/78-subsets.py) | [-](#)|
 |LRU缓存机制| [-](#) | [-](#) | [-](#)|
 |最小栈| [-](#) | [-](#) | [-](#)|
 |Nim 游戏| [-](#) | [-](#) | [-](#)|
