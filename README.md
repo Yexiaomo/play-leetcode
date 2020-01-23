@@ -57,7 +57,7 @@
 |62 - 不同路径| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/62-unique-paths.py) | [-](#)|
 |78 - 子集| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/78-subsets.py) | [-](#)|
 |LRU缓存机制| [-](#) | [-](#) | [-](#)|
-|最小栈| [-](#) | [-](#) | [-](#)|
+|155 - 最小栈| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/155-min-stack.py) | [-](#)|
 |Nim 游戏| [-](#) | [-](#) | [-](#)|
 
 

@@ -1,3 +1,38 @@
+#方法 - 同步栈
+#牺牲空间来获得时间
+class MinStack:
+    def __init__(self):
+        """
+        initialize your data structure here.
+        """
+        self.stack = []
+        #辅助栈
+        self.minStack = []
+
+    #入栈,判断是否同步到最小栈中
+    def push(self, x: int) -> None:
+        self.stack.append(x)
+        if(self.minStack == [] or x <= self.minStack[-1]):
+            self.minStack.append(x)
+
+    def pop(self) -> None:
+        if(self.stack != []):
+            x = self.stack.pop()
+            if(x == self.minStack[-1]):
+                self.minStack.pop()
+        return
+    def top(self) -> int:
+        return self.stack[-1]
+    
+    def getMin(self) -> int:
+        if(self.minStack != []):
+            return self.minStack[-1]
+
+
+
+
+#这种方法不可取
+#pop方法时间复杂度高
 class MinStack:
 
     def __init__(self):
@@ -43,11 +78,3 @@ class MinStack:
     def getMin(self) -> int:
         if(self.minIndex == -1): return None
         return self.stack[self.minIndex]
-
-
-# Your MinStack object will be instantiated and called as such:
-# obj = MinStack()
-# obj.push(x)
-# obj.pop()
-# param_3 = obj.top()
-# param_4 = obj.getMin()
