@@ -56,7 +56,7 @@
 |122 - 买卖股票的最佳时机-II| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/122-best-time-to-buy-and-sell-stock-ii.py) | [-](#)|
 |62 - 不同路径| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/62-unique-paths.py) | [-](#)|
 |78 - 子集| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/78-subsets.py) | [-](#)|
-|LRU缓存机制| [-](#) | [-](#) | [-](#)|
+|146 - LRU缓存机制| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/146-lru-cache.py) | [-](#)|
 |155 - 最小栈| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/155-min-stack.py) | [-](#)|
 |292 - Nim游戏| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/292-nim-game.py) | [-](#)|
 
@@ -101,7 +101,7 @@
 |136 - 只出现一次的数字| [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/c/136-single-number.c) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/136-single-number.py) | [-](#)|
 |141 - 环形链表| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/141-linked-list-cycle.py) | [-](#)|
 |142 - 环形链表-II| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/142-linked-list-cycle-ii.py) | [-](#)|
-|146 - LRU缓存机制| [-](#) | [-](#) | [-](#)|
+|146 - LRU缓存机制| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/146-lru-cache.py) | [-](#)|
 |148 - 排序链表| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/148-sort-list.py) | [-](#)|
 |155 - 最小栈| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/155-min-stack.py) | [-](#)|
 |160 - 相交链表| [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/python/160-intersection-of-two-linked-lists.py) | [-](#)|
