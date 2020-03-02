@@ -6,8 +6,8 @@
 ## 剑指offer
 | 序号 | 题目列表 | C实现 | Python实现 | Java实现 | 学习笔记 |
 |-|-|-|-|-|-|
-|面试题03|数组中重复的数字| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/剑指offer/面试题03-数组中重复的数字.java) | [-](#) |
-|面试题04|二维数组中的查找| [-](#) | [-](#) | [-](#) | [-](#) |
+|面试题03|数组中重复的数字| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof.java.java) | [-](#) |
+|面试题04|二维数组中的查找| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/04-er-wei-shu-zu-zhong-de-cha-zhao-lcof.java) | [-](#) |
 |面试题05|替换空格| [-](#) | [-](#) | [-](#) | [-](#) |
 |面试题06|从尾到头打印链表| [-](#) | [-](#) | [-](#) | [-](#) |
 |面试题07|重建二叉树| [-](#) | [-](#) | [-](#) | [-](#) |
