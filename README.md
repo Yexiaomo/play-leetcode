@@ -8,7 +8,7 @@
 |-|-|-|-|-|-|
 |面试题03|数组中重复的数字| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof.java) | [-](#) |
 |面试题04|二维数组中的查找| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/04-er-wei-shu-zu-zhong-de-cha-zhao-lcof.java) | [-](#) |
-|面试题05|替换空格| [-](#) | [-](#) | [-](#) | [-](#) |
+|面试题05|替换空格| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/05-ti-huan-kong-ge-lcof.java) | [-](#) |
 |面试题06|从尾到头打印链表| [-](#) | [-](#) | [-](#) | [-](#) |
 |面试题07|重建二叉树| [-](#) | [-](#) | [-](#) | [-](#) |
 |面试题09|用两个栈实现队列| [-](#) | [-](#) | [-](#) | [-](#) |
