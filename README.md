@@ -11,7 +11,7 @@
 |面试题05|替换空格| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/05-ti-huan-kong-ge-lcof.java) | [-](#) |
 |面试题06|从尾到头打印链表| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/06-cong-wei-dao-tou-da-yin-lian-biao-lcof.java) | [-](#) |
 |面试题07|重建二叉树| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/07-zhong-jian-er-cha-shu-lcof.java) | [-](#) |
-|面试题09|用两个栈实现队列| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
+|面试题09|用两个栈实现队列| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof.java) | [-](#) |
 |面试题10- I|斐波那契数列| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题10- II|青蛙跳台阶问题| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题11|旋转数组的最小数字| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
