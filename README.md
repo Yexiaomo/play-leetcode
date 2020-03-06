@@ -14,7 +14,7 @@
 |面试题09|用两个栈实现队列| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof.java) | [-](#) |
 |面试题10- I|斐波那契数列| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/10_1-fei-bo-na-qi-shu-lie-lcof.java) | [-](#) |
 |面试题10- II|青蛙跳台阶问题| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/10_2-qing-wa-tiao-tai-jie-wen-ti-lcof.java) | [-](#) |
-|面试题11|旋转数组的最小数字| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
+|面试题11|旋转数组的最小数字| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/11-xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.java) | [-](#) |
 |面试题12|矩阵中的路径| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题13|机器人的运动范围| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题14- I|剪绳子| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
