@@ -3,7 +3,10 @@
 **Github**地址 : [https://github.com/Yexiaomo/play-leetcode](https://github.com/Yexiaomo/play-leetcode)
 
 
-## 剑指offer
+## 剑指offer(第二版)
+
+[LeetCode链接](https://leetcode-cn.com/problemset/lcof/)
+
 | 序号 | 题目列表 | C实现 | Python实现 | Java实现 | 学习笔记 |
 |-|-|-|-|-|-|
 |面试题03|数组中重复的数字| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof.java) | [-](#) |
