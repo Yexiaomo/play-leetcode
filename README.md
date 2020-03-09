@@ -19,8 +19,8 @@
 |面试题10- II|青蛙跳台阶问题| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/10_2-qing-wa-tiao-tai-jie-wen-ti-lcof.java) | [-](#) |
 |面试题11|旋转数组的最小数字| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/11-xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.java) | [需复习-O(logn)](#) |
 |面试题12|矩阵中的路径| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/12-ju-zhen-zhong-de-lu-jing-lcof.java) | [需复习-(dfs)](#) |
-|面试题13|机器人的运动范围| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/13-ji-qi-ren-de-yun-dong-fan-wei-lcof.java) | [需复习-(dfs)](#) |
-|面试题14- I|剪绳子| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
+|面试题13|机器人的运动范围| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/13-ji-qi-ren-de-yun-dong-fan-wei-lcof.java) | [需复习-(dfs)](#) |
+|面试题14- I|剪绳子| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/14_1-jian-sheng-zi-lcof.java) | [-](#) |
 |面试题14- II|剪绳子| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题15|二进制中1的个数| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题16|数值的整数次方| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
