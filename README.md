@@ -22,7 +22,7 @@
 |面试题13|机器人的运动范围| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/13-ji-qi-ren-de-yun-dong-fan-wei-lcof.java) | [需复习-(dfs)](#) |
 |面试题14- I|剪绳子| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/14_1-jian-sheng-zi-lcof.java) | [-](#) |
 |面试题14- II|剪绳子| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/14_2-jian-sheng-zi-lcof.java) | [-](#) |
-|面试题15|二进制中1的个数| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
+|面试题15|二进制中1的个数| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/15-er-jin-zhi-zhong-1de-ge-shu-lcof.java) | [-](#) |
 |面试题16|数值的整数次方| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题17|打印从1到最大的n位数| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题18|删除链表的节点| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
