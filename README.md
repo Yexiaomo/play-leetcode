@@ -27,7 +27,7 @@
 |面试题17|打印从1到最大的n位数| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/17-da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.java) | [-](#) |
 |面试题18|删除链表的节点| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/18-shan-chu-lian-biao-de-jie-dian-lcof.java) | [-](#) |
 |面试题19|正则表达式匹配| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
-|面试题20|表示数值的字符串| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
+|面试题20|表示数值的字符串| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/20-biao-shi-shu-zhi-de-zi-fu-chuan-lcof.java) | [-](#) |
 |面试题21|调整数组顺序使奇数位于偶数前面| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题22|链表中倒数第k个节点| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题24|反转链表| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
