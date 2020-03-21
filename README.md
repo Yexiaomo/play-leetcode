@@ -29,7 +29,7 @@
 |面试题19|正则表达式匹配| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/19-zheng-ze-biao-da-shi-pi-pei-lcof.java) | [-](#) |
 |面试题20|表示数值的字符串| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/20-biao-shi-shu-zhi-de-zi-fu-chuan-lcof.java) | [-](#) |
 |面试题21|调整数组顺序使奇数位于偶数前面| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/21-diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.java) | [-](#) |
-|面试题22|链表中倒数第k个节点| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
+|面试题22|链表中倒数第k个节点| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.java) | [-](#) |
 |面试题24|反转链表| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题25|合并两个排序的链表| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题26|树的子结构| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
