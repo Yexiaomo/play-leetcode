@@ -33,8 +33,8 @@
 |面试题24|反转链表| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/24-fan-zhuan-lian-biao-lcof.java) | [-](#) |
 |面试题25|合并两个排序的链表| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/25-he-bing-liang-ge-pai-xu-de-lian-biao-lcof.java) | [-](#) |
 |面试题26|树的子结构| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/26-shu-de-zi-jie-gou-lcof.java) | [-](#) |
-|面试题27|二叉树的镜像| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
-|面试题28|对称的二叉树| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
+|面试题27|二叉树的镜像| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/27-er-cha-shu-de-jing-xiang-lcof.java) | [-](#) |
+|面试题28|对称的二叉树| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/28-dui-cheng-de-er-cha-shu-lcof.java) | [-](#) |
 |面试题29|顺时针打印矩阵| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题30|包含min函数的栈| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题31|栈的压入、弹出序列| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
