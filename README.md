@@ -45,7 +45,7 @@
 |面试题34|二叉树中和为某一值的路径| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/34-er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof.java) | [-](#) |
 |面试题35|复杂链表的复制| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/35-fu-za-lian-biao-de-fu-zhi-lcof.java) | [-](#) |
 |面试题36|二叉搜索树与双向链表| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/36-er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof.java) | [-](#) |
-|面试题37|序列化二叉树| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
+|面试题37|序列化二叉树| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/37-xu-lie-hua-er-cha-shu-lcof.java) | [-](#) |
 |面试题38|字符串的排列| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题39|数组中出现次数超过一半的数字| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题40|最小的k个数| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
