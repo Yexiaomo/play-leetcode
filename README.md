@@ -47,7 +47,7 @@
 |面试题36|二叉搜索树与双向链表| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/36-er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof.java) | [-](#) |
 |面试题37|序列化二叉树| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/37-xu-lie-hua-er-cha-shu-lcof.java) | [-](#) |
 |面试题38|字符串的排列| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/38-zi-fu-chuan-de-pai-lie-lcof.java) | [-](#) |
-|面试题39|数组中出现次数超过一半的数字| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
+|面试题39|数组中出现次数超过一半的数字| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/39-shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.java) | [-](#) |
 |面试题40|最小的k个数| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题41|数据流中的中位数| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题42|连续子数组的最大和| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
