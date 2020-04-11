@@ -49,7 +49,7 @@
 |面试题38|字符串的排列| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/38-zi-fu-chuan-de-pai-lie-lcof.java) | [-](#) |
 |面试题39|数组中出现次数超过一半的数字| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/39-shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.java) | [-](#) |
 |面试题40|最小的k个数| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/40-zui-xiao-de-kge-shu-lcof.java) | [-](#) |
-|面试题41|数据流中的中位数| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
+|面试题41|数据流中的中位数| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/41-shu-ju-liu-zhong-de-zhong-wei-shu-lcof.java) | [-](#) |
 |面试题42|连续子数组的最大和| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/42-lian-xu-zi-shu-zu-de-zui-da-he-lcof.java) | [-](#) |
 |面试题43|1～n整数中1出现的次数| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题44|数字序列中某一位的数字| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
