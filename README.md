@@ -51,7 +51,7 @@
 |面试题40|最小的k个数| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/40-zui-xiao-de-kge-shu-lcof.java) | [-](#) |
 |面试题41|数据流中的中位数| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/41-shu-ju-liu-zhong-de-zhong-wei-shu-lcof.java) | [-](#) |
 |面试题42|连续子数组的最大和| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/42-lian-xu-zi-shu-zu-de-zui-da-he-lcof.java) | [-](#) |
-|面试题43|1～n整数中1出现的次数| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
+|面试题43|1～n整数中1出现的次数| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/43-1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof.java) | [-](#) |
 |面试题44|数字序列中某一位的数字| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题45|把数组排成最小的数| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题46|把数字翻译成字符串| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
@@ -60,7 +60,7 @@
 |面试题49|丑数| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题50|第一个只出现一次的字符| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/50-di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.java) | [-](#) |
 |面试题51|数组中的逆序对| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
-|面试题52|两个链表的第一个公共节点| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
+|面试题52|两个链表的第一个公共节点| [-](#) | [-](#) | 地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/52-liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.java) | [-](#) |
 |面试题53 - I|在排序数组中查找数字| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题53 - II|0～n| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题54|二叉搜索树的第k大节点| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
