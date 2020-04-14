@@ -60,8 +60,8 @@
 |面试题49|丑数| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题50|第一个只出现一次的字符| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/50-di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.java) | [-](#) |
 |面试题51|数组中的逆序对| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
-|面试题52|两个链表的第一个公共节点| [-](#) | [-](#) | 地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/52-liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.java) | [-](#) |
-|面试题53 - I|在排序数组中查找数字| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
+|面试题52|两个链表的第一个公共节点| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/52-liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.java) | [-](#) |
+|面试题53 - I|在排序数组中查找数字| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/53-zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.java) | [-](#) |
 |面试题53 - II|0～n| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题54|二叉搜索树的第k大节点| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题55 - I|二叉树的深度| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
