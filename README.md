@@ -62,7 +62,7 @@
 |面试题51|数组中的逆序对| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题52|两个链表的第一个公共节点| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/52-liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.java) | [-](#) |
 |面试题53 - I|在排序数组中查找数字| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/53-zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.java) | [-](#) |
-|面试题53 - II|0～n| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
+|面试题53 - II|0～n| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/53-ii-que-shi-de-shu-zi-lcof.java) | [-](#) |
 |面试题54|二叉搜索树的第k大节点| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题55 - I|二叉树的深度| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题55 - II|平衡二叉树| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
