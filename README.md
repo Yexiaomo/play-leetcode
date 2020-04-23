@@ -69,8 +69,8 @@
 |面试题56 - I|数组中数字出现的次数| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/56-i-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof.java) | [-](#) |
 |面试题56 - II|数组中数字出现的次数| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/56-ii-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof.java) | [-](#) |
 |面试题57|和为s的两个数字| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/57-he-wei-sde-liang-ge-shu-zi-lcof.java) | [-](#) |
-|面试题57 - II|和为s的连续正数序列| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
-|面试题58 - I|翻转单词顺序| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
+|面试题57 - II|和为s的连续正数序列| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/57-ii-he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.java) | [-](#) |
+|面试题58 - I|翻转单词顺序| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/58-i-fan-zhuan-dan-ci-shun-xu-lcof.java) | [-](#) |
 |面试题58 - II|左旋转字符串| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题59 - I|滑动窗口的最大值| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题59 - II|队列的最大值| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
