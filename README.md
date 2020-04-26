@@ -72,8 +72,8 @@
 |面试题57 - II|和为s的连续正数序列| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/57-ii-he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.java) | [-](#) |
 |面试题58 - I|翻转单词顺序| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/58-i-fan-zhuan-dan-ci-shun-xu-lcof.java) | [-](#) |
 |面试题58 - II|左旋转字符串| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/58-ii-zuo-xuan-zhuan-zi-fu-chuan-lcof.java) | [-](#) |
-|面试题59 - I|滑动窗口的最大值| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
-|面试题59 - II|队列的最大值| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
+|面试题59 - I|滑动窗口的最大值| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/59-i-hua-dong-chuang-kou-de-zui-da-zhi-lcof.java) | [-](#) |
+|面试题59 - II|队列的最大值| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/59-ii-dui-lie-de-zui-da-zhi-lcof.java) | [-](#) |
 |面试题60|n个骰子的点数| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题61|扑克牌中的顺子| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题62|圆圈中最后剩下的数字| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
