@@ -74,7 +74,7 @@
 |面试题58 - II|左旋转字符串| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/58-ii-zuo-xuan-zhuan-zi-fu-chuan-lcof.java) | [-](#) |
 |面试题59 - I|滑动窗口的最大值| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/59-i-hua-dong-chuang-kou-de-zui-da-zhi-lcof.java) | [-](#) |
 |面试题59 - II|队列的最大值| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/59-ii-dui-lie-de-zui-da-zhi-lcof.java) | [-](#) |
-|面试题60|n个骰子的点数| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
+|面试题60|n个骰子的点数| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/60-nge-tou-zi-de-dian-shu-lcof.java) | [-](#) |
 |面试题61|扑克牌中的顺子| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题62|圆圈中最后剩下的数字| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题63|股票的最大利润| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
