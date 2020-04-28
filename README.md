@@ -52,7 +52,7 @@
 |面试题41|数据流中的中位数| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/41-shu-ju-liu-zhong-de-zhong-wei-shu-lcof.java) | [-](#) |
 |面试题42|连续子数组的最大和| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/42-lian-xu-zi-shu-zu-de-zui-da-he-lcof.java) | [-](#) |
 |面试题43|1～n整数中1出现的次数| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/43-1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof.java) | [-](#) |
-|面试题44|数字序列中某一位的数字| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
+|面试题44|数字序列中某一位的数字| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/44-shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof.java) | [-](#) |
 |面试题45|把数组排成最小的数| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题46|把数字翻译成字符串| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题47|礼物的最大价值| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
