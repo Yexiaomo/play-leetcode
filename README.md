@@ -56,8 +56,8 @@
 |面试题45|把数组排成最小的数| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/45-ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.java) | [-](#) |
 |面试题46|把数字翻译成字符串| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/46-ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.java) | [-](#) |
 |面试题47|礼物的最大价值| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/47-li-wu-de-zui-da-jie-zhi-lcof.java) | [-](#) |
-|面试题48|最长不含重复字符的子字符串| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
-|面试题49|丑数| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
+|面试题48|最长不含重复字符的子字符串| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/48-zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof.java) | [-](#) |
+|面试题49|丑数| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/49-chou-shu-lcof.java) | [-](#) |
 |面试题50|第一个只出现一次的字符| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/50-di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.java) | [-](#) |
 |面试题51|数组中的逆序对| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题52|两个链表的第一个公共节点| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/52-liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.java) | [-](#) |
@@ -71,11 +71,11 @@
 |面试题57|和为s的两个数字| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/57-he-wei-sde-liang-ge-shu-zi-lcof.java) | [-](#) |
 |面试题57 - II|和为s的连续正数序列| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/57-ii-he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.java) | [-](#) |
 |面试题58 - I|翻转单词顺序| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/58-i-fan-zhuan-dan-ci-shun-xu-lcof.java) | [-](#) |
-|面试题58 - II|左旋转字符串| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/58-ii-zuo-xuan-zhuan-zi-fu-chuan-lcof.java) | [-](#) |
-|面试题59 - I|滑动窗口的最大值| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/59-i-hua-dong-chuang-kou-de-zui-da-zhi-lcof.java) | [-](#) |
-|面试题59 - II|队列的最大值| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/59-ii-dui-lie-de-zui-da-zhi-lcof.java) | [-](#) |
-|面试题60|n个骰子的点数| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/60-nge-tou-zi-de-dian-shu-lcof.java) | [-](#) |
-|面试题61|扑克牌中的顺子| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
+|面试题58 - II|左旋转字符串| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/58-ii-zuo-xuan-zhuan-zi-fu-chuan-lcof.java) | [-](#) |
+|面试题59 - I|滑动窗口的最大值| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/59-i-hua-dong-chuang-kou-de-zui-da-zhi-lcof.java) | [-](#) |
+|面试题59 - II|队列的最大值| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/59-ii-dui-lie-de-zui-da-zhi-lcof.java) | [-](#) |
+|面试题60|n个骰子的点数| [-](#) | [-](#) | [地址](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/60-nge-tou-zi-de-dian-shu-lcof.java) | [-](#) |
+|面试题61|扑克牌中的顺子| [-](#) | [-](#) | [](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题62|圆圈中最后剩下的数字| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题63|股票的最大利润| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
 |面试题64|求1| [-](#) | [-](#) | [-](https://github.com/Yexiaomo/play-leetcode/blob/master/JianZhi-offer/) | [-](#) |
