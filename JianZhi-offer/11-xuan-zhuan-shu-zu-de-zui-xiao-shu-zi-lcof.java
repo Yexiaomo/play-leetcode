@@ -11,7 +11,8 @@ class Solution {
             }else if(numbers[mid] > numbers[right]){
                 left = mid+1;
             }else{
-                //到这一步说明, left, mid, right三值重复
+                //如果走到这一步, 说明left, mid, right相同
+                //如剑指offer书上提到的[1,0,1,1,1]或者[1,1,1,0,1]
                 --right;
             }
         }
